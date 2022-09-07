@@ -1,6 +1,7 @@
 {
   "origins": [
-    "https://xianmin.org"
+    "https://xianmin.org",
+    "https://www.xianmin.org"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
